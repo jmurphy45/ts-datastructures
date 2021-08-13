@@ -1,0 +1,19 @@
+{
+  "name": "ts-datastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmurphy45/ts-datastructures.git"
+  },
+  "author": "Jay Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmurphy45/ts-datastructures/issues"
+  },
+  "homepage": "https://github.com/jmurphy45/ts-datastructures#readme"
+}
